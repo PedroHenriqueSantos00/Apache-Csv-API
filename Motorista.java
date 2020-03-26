@@ -3,7 +3,7 @@ public class Motorista{
  private int cpf;
  private String nome;
  private Veiculo veiculo;
- private FormaPagamento pagamaneto;
+ private FormaPagamento pagamento;
 
     public Motorista(int cpf, String nome, Veiculo veiculo, FormaPagamento pagamento){
         this.cpf = cpf;
